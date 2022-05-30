@@ -8,7 +8,7 @@ const errorHandler = require('../handlers/500');
 const app = express();
 
 app.get("/", (req, res) => {
-    res.status(200).send('hello ');
+    res.status(200).send('hello');
 });
 
 app.get("/data", (req, res) => {
