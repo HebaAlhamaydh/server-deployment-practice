@@ -12,7 +12,8 @@
 Visit http://localhost:3030/data in  browser to confirm that the server is visible
 
 # The link for Heroku applications,  Github actions, and  pull request:
--  [Heroku Link](https://heba-server-deploy-dev.herokuapp.com/)
+-  [Heroku dev Link](https://heba-server-deploy-dev.herokuapp.com/)
+-  [Heroku main Link](https://heba-server-deploy-prod.herokuapp.com/)
 - [ Github actions](https://github.com/HebaAlhamaydh/server-deployment-practice/actions/runs/2407875176)
 - [Pull Request](https://github.com/HebaAlhamaydh/server-deployment-practice/pull/2)
 
